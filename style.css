@@ -1,0 +1,297 @@
+
+.top-navbar{
+text-align:center ;
+background-color:rgb(165, 26, 26);
+}
+#navbar{
+    margin-left :90px; 
+    padding-left: 200px;
+    font-size: large;
+   color: black;
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+}
+#navbarCollapse{
+  
+    padding-left: 100px;
+}
+#side-text{
+    padding-right: 700px;
+    padding-bottom: 200px;
+    color: black;
+}
+   
+#side-top-text{
+
+    font-size:2.7rem ;
+   
+}
+.top-text{
+    color: rgb(218, 32, 32); 
+    padding-right: 80px;
+}
+.row{
+    margin: 5% 5% 5% 5%;
+}
+.container{
+    padding-bottom: 50px;
+   
+}
+.bottompara{
+    padding-right: 20px;
+} 
+.skillbar-bar{
+    height: 7px;
+    width: 100%;
+    background: rgb(175, 27, 27);
+    border-radius: 3px;
+}
+ 
+ .skill-bar-percent{
+     padding-left: 600px;
+    
+ }
+ .logoimg{
+     padding-left: 100px;
+ }
+ 
+.md-4-title{
+    color: black;
+    font-weight: 900;
+    font-size: 1.5rem;
+    padding-top: 10px;
+}
+.services-text{
+    color: black;
+}
+.counter-area{
+    margin: 20px;
+}
+.count-no{
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+.content-part{
+    padding-top: 30px;
+    
+}
+.title{
+font-size: medium;
+
+}
+hr{
+    color: rgb(100, 120, 121);
+}
+.heding{
+    padding-top: 10px;
+    font-size: 2.3rem;
+    font-weight: 800;
+    color: white;
+}
+.rounded-circle{
+    background-color: white;
+    width: 50;
+    height: 200;
+    margin-bottom: 50px;
+
+}
+.top-title{
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+ .bottom-title{
+     color: white;
+     padding-top:10px ;
+ }
+ .btn-black{
+    margin-left: 1100px;
+ }
+ .test-top{
+    /* margin-bottom: 200px; */
+
+    top: 50%;
+    text-align: center;
+ }
+ .banner{
+    position: relative;
+     width: 100%;
+     margin: 0 auto;
+ }
+ /* .banner img{
+     width: 100%;
+ } */
+ .heading-top{
+     color: rgb(189, 8, 8); 
+     position: absolute;
+    top: 8%;
+     width: 100%;
+     text-align: center;
+     font-size: 13px;
+     
+ }
+ .heading-top h3{
+     font-weight: 700;
+     font-size: 30px;
+ }
+ .image{
+     top: 10%;
+     width: 100%;
+     position: absolute;
+   
+ }
+ .first-img{
+    left: 12%;
+    position: absolute;
+  
+ }
+ .third-img{
+     right: 26%;
+     position: absolute;
+     
+ }
+ @media(max-width:800px){
+     #row{
+        margin: 5% 5% 5% 5%;
+     }
+ }
+
+ @media (min-width:100px) and  (max-width:1028px){
+    #side-text{
+
+    padding-right: 700px;
+    padding-bottom: 200px;
+    color: black;
+    }
+}
+.control{
+    margin: 10px;
+   
+     height: 50px;
+    
+   background-color: rgb(224, 216, 216);
+   /* text-align: center; */
+   
+}
+.submit{
+    background-color: rgb(180, 8, 8);
+    color: white;
+    font-weight: 400px;
+    height: 50px;
+    width:160px ;
+   
+}
+.submit-btn{
+    padding-left: 70px;
+}
+ .contact-container{
+   background: url(contact-bg1.jpg) ;
+   width: 100%;
+
+ }
+ .sub-text{
+     color: rgb(161, 17, 17);
+     font-weight:500px ;
+     padding-left: 80px;
+ }
+ .c-title{
+    font-size: 2rem;
+    font-weight: 800;
+    padding-left: 80px;
+ }
+#message{
+    width: 470px;
+    height: 80px;
+}
+
+
+                  /* FOOTER */
+
+
+.footer-top{
+    background-color: rgb(32, 27, 27);
+    padding-top: 50px;
+}
+.footer-para{
+    color:white ;
+    padding-top: 35px;
+    line-height: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    
+}
+#footer1{
+    padding-right: 100px;
+}
+
+.media{
+    margin-top: 20px;
+   
+}
+
+.icon{
+    margin: 10px;
+}
+
+ .footer-title{
+color: white;
+font-weight: 700;
+ }
+
+.footer-para2{
+    color:white ;
+    padding-top: 35px;
+    line-height: 30px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.icon1{
+    color: rgb(177, 9, 9);
+}
+#footer-email{
+    height: 70px;
+    width: 270px;
+    background-color: beige;
+   margin-top: 10px;
+   margin-bottom: 20px;
+    
+}
+#footer-submit{
+    height:50px ;
+    width:200px ;
+    background-color: rgb(177, 9, 9);
+    color: white;
+}
+.footer-bottom{
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    text-align: center;
+    
+ 
+}
+.dot{
+    color: rgb(177, 9, 9);
+    font-size: 50px;
+
+}
+#footer-div{
+    margin:20px ;
+}
+#footer-div1{
+    margin-top:50px ;
+}
+
+
+
+
+
+
+
+
+
+
+
